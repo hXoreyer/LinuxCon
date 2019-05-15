@@ -8,6 +8,7 @@
 #include <cstdlib>
 #endif
 
+//for myself -keing
 
 int getch()
 {
